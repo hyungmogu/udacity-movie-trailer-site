@@ -1,3 +1,10 @@
+'''
+What does main.py do?
+
+It creates movie objects using data structures. Once done, they are processed by open_movies_page function.
+The function returns html file for view.
+'''
+
 import media
 import fresh_tomatoes as ft
 
