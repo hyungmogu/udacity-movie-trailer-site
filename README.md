@@ -1,5 +1,5 @@
 # udacity-movie-trailer-site
-Project for Programming Foundation with Python
+Project for 'Programming Foundation with Python' by Udacity
 
 ##Installation
 
