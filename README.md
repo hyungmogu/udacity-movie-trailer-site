@@ -1,4 +1,4 @@
-# udacity-movie-trailer-site
+# Udacity FSND 1st Project: Movie Trailer Website
 Project for `Programming Foundation with Python` by Udacity
 
 ##Installation
